@@ -1,6 +1,9 @@
 # DJI Mobile SDK for Android
 https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-integrate.html#android-studio-project-integration
 
+# DJI sample code link with SDK
+https://github.com/bha6kar/DJI-Android-SDK.git
+
 ## What Is This?
 
 The DJI Mobile SDK enables you to automate your DJI Product. You can control flight, and many subsystems of the product including the camera and gimbal. Using the Mobile SDK, create a customized mobile app to unlock the full potential of your DJI aerial platform.
