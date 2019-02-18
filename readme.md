@@ -2,7 +2,7 @@
 https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-integrate.html#android-studio-project-integration
 
 # DJI sample code link with SDK
-https://github.com/bha6kar/DJI-Android-SDK.git
+https://github.com/bha6kar/DJI-Android-SDK-Sample.git
 
 ## What Is This?
 
